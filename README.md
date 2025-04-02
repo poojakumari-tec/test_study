@@ -41,7 +41,9 @@ http://localhost:8501
 
 3. Webインターフェースの使用手順：
 
-### B. コマンドライン実行
+### B. コマンドライン実行　開発環境ではここを実行しないと上手くいかない。（対策は後で考える）
+git config --global user.name "Motoya Takashi"
+git config --global user.email "XXX@gmail.com"
 
 ## データ形式
 
